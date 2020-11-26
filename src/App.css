@@ -45,3 +45,32 @@ animation: none !important;
   color: #fff;
   font-size: 100px;
 }
+@media screen and (max-width: 768px) {
+ 
+  .services {
+    background-image: url('/images/ImgS.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 50px;
+  }
+  
+  .products {
+    background-image: url('/images/ImgP.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 50px;
+  }
+  
+  .sign-up {
+    background-image: url('/images/img-8.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 50px;
+  }
+}
