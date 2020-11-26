@@ -68,7 +68,7 @@ function Footer() {
                             <i class='fas fa-cat' />
                         </Link>
                     </div>
-                    <small class='website-rights'>MIKA SHOP © 2020 Designed by Israel Sanchez Aguilar</small>
+                    <small class='website-rights'>MIKA SHOP © 2020 Designed by Ed</small>
                     <div class='social-icons'>
                         <Link
                             class='social-icon-link facebook'
